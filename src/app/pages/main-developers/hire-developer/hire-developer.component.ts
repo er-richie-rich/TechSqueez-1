@@ -589,9 +589,15 @@ export class HireDeveloperComponent implements OnInit {
 
   };
   hireAndroidDev = {
+<<<<<<< HEAD
     name: 'Hire Full Stack App Developers',
     serviceHead: {
       title: 'Hire Android Developers',
+=======
+    name: 'Hire Android App Developers',
+    serviceHead: {
+      title: 'Hire Full Stack Developers',
+>>>>>>> 072ca43e66f71a99a6a20e5809bbe02293061080
       description: `Hire the industry’s best minds for the development of modern-day Android applications for devices of varying screen sizes. As a leading Android app development company, we have android app developers for hire for wearables, Android TV, tablets, etc.`,
       serviceHeroImage: 'assets/image/services/app-devlopment.webp',
     },
